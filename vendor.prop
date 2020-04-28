@@ -43,6 +43,7 @@ ro.hardware.vulkan=adreno
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+ro.vendor.perf.scroll_opt=true
 
 # Radio
 persist.dbg.volte_avail_ovr=1
